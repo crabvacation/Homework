@@ -4,7 +4,6 @@
 #include <time.h>
 
 void printninja();
-void printmap();
 
 int main(){
     FILE * ifp = NULL;
