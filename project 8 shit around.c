@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-void printninja();
+void printninja(struct ninja *);
 
 struct map {
     int searchval;
