@@ -2,7 +2,8 @@
  *COP 3223C-18Fall 0R06
  *Project 8 - 12/2/18
  *This program tests a ninja's stealth and observation abilities, and the lucky ninjas who pass will graduate from the ninja academy!
-*/
+ version: 1.0
+ */
 
 //pre-processor directives
 #include <stdio.h>
